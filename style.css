@@ -1,0 +1,16 @@
+body {
+	margin: 0 30px;
+}
+
+div {
+	text-align: center;
+}
+
+/* 		.flex {
+	display: flex;
+	justify-content: space-between;
+} */
+
+p {
+	padding: 0 30px;
+}
